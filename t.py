@@ -14,8 +14,8 @@ email = driver.find_element_by_name('text')
 email.send_keys("123-3t") #replace with your twitter account 
 email.send_keys(Keys.ENTER)
 time.sleep(3)
-password = driver.find_element_by_name("password") #replace with your twitter password 
-password.send_keys("seen23%")
+password = driver.find_element_by_name("password") 
+password.send_keys("seen23%")#replace with your twitter password 
 password.send_keys(Keys.ENTER)
 time.sleep(8)
 
