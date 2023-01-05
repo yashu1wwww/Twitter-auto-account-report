@@ -11,14 +11,14 @@ driver.maximize_window()
 driver.get("https://twitter.com/i/flow/login")
 time.sleep(10)
 email = driver.find_element_by_name('text')
-email.send_keys("123_notweet") #replace with your twitter account 
+email.send_keys("123-3t") #replace with your twitter account 
 email.send_keys(Keys.ENTER)
 time.sleep(3)
 password = driver.find_element_by_name("password") #replace with your twitter password 
-password.send_keys("Yashu123$%")
+password.send_keys("seen23%")
 password.send_keys(Keys.ENTER)
 time.sleep(8)
-driver.get("https://twitter.com/Jaggesh2")
+driver.get("https://twitter.com/yashu_krish11") #replace wityh username
 time.sleep(3)
 driver.find_element_by_xpath('/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[1]/div').click()#id click
 time.sleep(3)
