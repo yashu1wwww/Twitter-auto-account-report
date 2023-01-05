@@ -8,7 +8,7 @@ point_rightNote:-
 
 point_rightif your selenium version is in latest version then the code never run
 
-point_rightopen cmd and enter pip uninstall selenium
+pen cmd and enter pip uninstall selenium
 
 And enter
 
