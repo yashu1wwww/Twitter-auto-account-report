@@ -18,7 +18,8 @@ password = driver.find_element_by_name("password") #replace with your twitter pa
 password.send_keys("seen23%")
 password.send_keys(Keys.ENTER)
 time.sleep(8)
-driver.get("https://twitter.com/yashu_krish11") #replace wityh username
+
+driver.get("https://twitter.com/Botter_11") #replace wityh username
 time.sleep(3)
 driver.find_element_by_xpath('/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[1]/div').click()#id click
 time.sleep(3)
