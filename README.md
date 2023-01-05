@@ -4,11 +4,11 @@ replace 14 & 18h line with username & pass and in 22 line which person you want 
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter t.py or double click on t.py or you can rename the file and run
 
-point_rightNote:-
+👉Note:-
 
-point_rightif your selenium version is in latest version then the code never run
+👉if your selenium version is in latest version then the code never run
 
-pen cmd and enter pip uninstall selenium
+👉cmd and enter pip uninstall selenium
 
 And enter
 
