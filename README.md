@@ -1,11 +1,14 @@
 # Twitter-auto-account-report
-Twitter auto account report bot using selenium with python
 
-replace 13 & 17h line with username & pass and in 20 line which person you want to report put her username after .com/
 
-in 44 & 45 line 44 line for report for profile and 45 line for tweets which you don't want means just put # in thew starting of the line
+Twitter auto account report bot using Selenium with Python.
 
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter t.py or double click on t.py or you can rename the file and run
+Replace line 13 and 17 with your username and password, respectively. In line 20, enter the username of the person you want to report after ".com/."
+
+For line 44, use it to report a profile, and for line 45, use it to report tweets you don't want by adding a "#" at the beginning of the line.
+
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that folder and enter "t.py," or double-click on "t.py." Alternatively, you can rename the file and run it.
+
 
 👉Note:-
 
