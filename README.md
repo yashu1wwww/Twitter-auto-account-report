@@ -3,7 +3,9 @@
 
 Twitter auto account report bot using Selenium with Python.
 
-Replace line 13 and 17 with your username and password, respectively. In line 20, enter the username of the person you want to report after ".com/."
+# Replace line 13 and 17 with your username and password, respectively. In line 20,
+
+# enter the username of the person you want to report after ".com/."
 
 For line 44, use it to report a profile, and for line 45, use it to report tweets you don't want by adding a "#" at the beginning of the line.
 
