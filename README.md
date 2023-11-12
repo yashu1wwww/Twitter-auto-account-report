@@ -9,7 +9,15 @@ Twitter auto account report bot using Selenium with Python.
 
 For line 44, use it to report a profile, and for line 45, use it to report tweets you don't want by adding a "#" at the beginning of the line.
 
-Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that folder and enter "t.py," or double-click on "t.py." Alternatively, you can rename the file and run it.
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. 
+
+Open the command prompt in that folder and enter "t.py," or double-click on "t.py." Alternatively, you can rename the file and run it.
+
+# when twitter updated the some code changes if these not run means use below repos..
+
+https://github.com/FutureMna/Twitter-Auto-Report-
+
+https://github.com/shinjino/TwitterReport
 
 
 👉Note:-
