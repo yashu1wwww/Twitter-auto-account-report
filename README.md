@@ -7,6 +7,8 @@ Twitter auto account report bot using Selenium with Python.
 
 # enter the username of the person you want to report after ".com/."
 
+# 👉 Note: Every time Twitter updates the code, it varies. So press 'Ctrl+Shift+C' to open the developer tools, and inspect and fork it..
+
 For line 44, use it to report a profile, and for line 45, use it to report tweets you don't want by adding a "#" at the beginning of the line.
 
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. 
